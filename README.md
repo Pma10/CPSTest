@@ -1,2 +1,0 @@
-# CPSTest
-CpsTestSite / Svelte
